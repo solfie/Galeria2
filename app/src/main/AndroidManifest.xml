@@ -34,7 +34,7 @@
         </activity>
 
         <provider
-        android:authorities="nascimento.andrade.sofia.galeria2..fileprovider"
+        android:authorities="nascimento.andrade.sofia.galeria2.fileprovider"
         android:name="androidx.core.content.FileProvider"
         android:exported="false"
         android:grantUriPermissions="true">
